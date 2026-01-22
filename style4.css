@@ -383,8 +383,8 @@ footer{
 }
 
 .tech-tags span {
-  background: #fde2f3;
-  color: #9d174d;
+  background: #710349;
+  color: #fab4d0;
   padding: 6px 14px;
   font-size: 0.8rem;
   border-radius: 999px;
@@ -829,7 +829,7 @@ footer{
 }
 
 .connect-title {
-  background: linear-gradient(90deg, #ec4899, #f97316);
+  background: linear-gradient(90deg, #ec4899, #e0668f);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
